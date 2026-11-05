@@ -1,5 +1,5 @@
 ### Near Real-Time Machine Learning Microservice Design        
- 
+  
 ### Tools
   - MySQL
   - MongoDB
