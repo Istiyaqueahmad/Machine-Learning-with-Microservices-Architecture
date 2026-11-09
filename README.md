@@ -1,6 +1,6 @@
 ### Near Real-Time Machine Learning Microservice Design                     
             
-### Tools
+### Tools 
   - MySQL
   - MongoDB
   - Kubernetes (Minikube)
